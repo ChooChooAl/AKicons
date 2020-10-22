@@ -1,6 +1,9 @@
 Places
+
 ![](sample.png)
+
 Apps
+
 ![](sample2.png)
 
 Icon Theme where folders have white tabs.
